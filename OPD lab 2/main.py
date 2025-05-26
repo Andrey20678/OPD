@@ -42,7 +42,7 @@ travm = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton(text='11:00', callback_data='11:00')]
 ])
 
-bot = Bot(token="7599352485:AAFwiijyBXcS4Vs2ml2XBXh-6PhUVg0PcgM")
+bot = Bot(token="Token")
 dp = Dispatcher()
 
 
