@@ -8,3 +8,4 @@
 ![img_4.png](screens/img_4.png)
 # Лабораторная 4
 ![img_5.png](screens/img_5.png)
+.
